@@ -2,7 +2,7 @@ package tcp
 
 import (
 	"net"
-
+	"time"
 	"go.k6.io/k6/js/modules"
 )
 
